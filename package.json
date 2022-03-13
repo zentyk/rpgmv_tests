@@ -1,0 +1,16 @@
+{
+    "name": "",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "chromium-args": "--remote-debugging-port=9222",
+    "window": {
+        "title": "",
+        "toolbar": false,
+        "width": 816,
+        "height": 624,
+        "icon": "icon/icon.png"
+    },
+    "devDependencies": {
+        "nw": "^0.62.0-sdk"
+    }
+}
